@@ -1,1 +1,0 @@
-export { MovieCardList } from "./MovieCardList"
